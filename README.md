@@ -49,6 +49,11 @@ parser.py  (NLP filter extraction)
 
 ---
 
+
+Diagram
+<img width="1327" height="916" alt="image" src="https://github.com/user-attachments/assets/39252c06-dbc4-451e-b5fa-9ff805addd6e" />
+
+
 Tech Stack
 
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript
